@@ -130,6 +130,7 @@
 		/datum/skill/craft/cooking = SKILL_LEVEL_NOVICE,
 		/datum/skill/craft/traps = SKILL_LEVEL_EXPERT,
 	)
+	subclass_languages = list(/datum/language/undercommon)
 	extra_context = "This subclass is race-restricted to the Dark Elf species, and can pick between two bonuses; an extra level to Athletics, or a rideable mount."
 
 /datum/outfit/job/roguetown/mercenary/anthrax_assassin/pre_equip(mob/living/carbon/human/H)
