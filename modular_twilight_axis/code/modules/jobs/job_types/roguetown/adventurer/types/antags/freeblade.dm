@@ -82,4 +82,3 @@
 				neck = /obj/item/clothing/neck/roguetown/chaincoif/full
 				wrists = /obj/item/clothing/wrists/roguetown/bracers/jackchain
 				belt = /obj/item/storage/belt/rogue/leather/steel/tasset
-		wretch_select_bounty(H)
